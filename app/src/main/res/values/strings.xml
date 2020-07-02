@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IFTTT Battery Toggler</string>
+    <string name="pref_file_key">com.ivank.iftttbatterytoggler.PREF_FILE_KEY</string>
+    <string name="turn_off_webhook">TURNOFFWEBHOOK</string>
+    <string name="turn_on_webhook">TURNONWEBHOOK</string>
+    <string name="charger_state">CHARGERSTATE</string>
+    <string name="min_battery_lvl">MINBATTERYLEVEL</string>
+    <string name="max_battery_lvl">MAXBATTERYLEVEL</string>
+    <string name="min_battery_lvl_hint">Min Battery Level</string>
+    <string name="max_battery_lvl_hint">Max Battery Level</string>
+    <string name="off_webhook_hint">IFTTT Webhook for Off</string>
+    <string name="on_webhook_hint">IFTTT Webhook for On</string>
+</resources>
